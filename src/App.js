@@ -1,8 +1,7 @@
-import logo from './logo.svg';
 import schoolPamplet from './schoolPamplet.jpg';
 import schoolBuilding from './schoolBuilding.jpg';
 import './App.css';
-import {Container, Row, Col} from 'react-bootstrap'
+import {Row, Col} from 'react-bootstrap'
 
 function App() {
   return (
